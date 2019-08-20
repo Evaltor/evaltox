@@ -1,0 +1,41 @@
+body {
+    background:beige;
+}
+/* start main */
+.container {
+    width: 1170px;
+    margin: auto;
+}
+/* end main */
+
+/*start header */
+
+.container .slider{
+    background-color: burlywood;
+    height: 400px;
+}
+.container .navbar h2{
+    float: left;
+    text-transform: uppercase;
+}
+.container .navbar {
+    background-color: burlywood;
+    color: darkslategray;
+    overflow: hidden;
+}
+
+.container .navbar ul {
+    list-style: none ;
+    padding-left: 0;
+    overflow: hidden;
+    float: right;
+}
+
+.container .navbar ul li {
+    float: left;
+    padding: 10px;
+}
+.container .navbar ul li a:hovar {
+    background-color: aqua;
+}
+/* end header */
